@@ -1,0 +1,33 @@
+h1 {
+  color: #B0E0E6;
+  font-family: Courier;
+  text-align: center;
+  font-size: 44px;
+  margin-bottom: 2px;
+}
+
+h2 {
+  color: #40E0D0;
+  font-family: Courier;
+  font-size: 30px;
+}
+
+h3 {
+  color: #FFB6C1;
+  font-family: Courier;
+  font-size: 24px;
+}
+
+h4 {
+  color: #228B22;
+  font-family: Courier;
+  text-align: center;
+  padding-top: 1px;
+}
+
+a {
+  color: #000080;
+  font-family: Courier;
+  padding-left: 20px
+
+}
