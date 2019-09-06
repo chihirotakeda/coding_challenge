@@ -1,0 +1,138 @@
+header#masthead {
+  background-attachment: scroll;
+  background-color: rgb(255, 255, 255);
+  box-sizing: border-box;
+  height: 163px;
+  max-width: 1598px;
+  position: fixed;
+  top: 0;
+  transition: all ls;
+  width: 1183px;
+  z-index: 101;
+}
+
+#masthead .logo {
+  float: left;
+  height: 76px;
+  width: auto;
+}
+
+#masthead .logo a {
+  background: url(https://centralmarket.com/wp-content/themes/centralmarket-theme/assets/images/svg-icons/central-market-logo.svg?1566352466595) no-repeat center left;
+  background-clip: border-box;
+  background-color: rgba(0, 0, 0, 0);
+  background-origin: padding-box;
+  background-position-x: 0%;
+  background-position-y: 50%;
+  display: block;
+  height: 76px;
+  margin-bottom: 0px;
+  position: static;
+  width: 330px;
+}
+
+#main {
+  box-sizing: border-box;
+  font-weight: 400;
+  height: 1100.580px;
+  overflow-wrap: break-word;
+
+}
+
+#primary {
+  float: left;
+  margin-right: 51.6406px;
+  margin-top: 163px;
+  width: 1188px;
+
+
+}
+
+#page {
+  background: url(https://centralmarket.com/wp-content/themes/centralmarket-theme/assets/images/texture-bg-c.jpg);
+  background-size: 37.5rem 46.875rem;
+  border-left: .0625rem solid rgba(80,73,62,.15);
+  border-right: .0625rem solid rgba(80,73,62,.15);
+  display: block;
+  height:1499.58px;
+  margin: 0 auto;
+  max-width: 1600px;
+  transition: padding-top .2s;
+}
+
+#post-215389 {
+  background: #FFFFFF;
+  background-origin: border-box;
+  box-shadow: 0.1875rem 0.3125rem 0.75rem 0 rgba(80,73,62,.3);
+  box-sizing: border-box;
+  margin-bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0px;
+  padding-bottom: 60px;
+  padding-left: 64px;
+  padding-right: 64px;
+  padding-top: 54px;
+  width: 860px;
+
+}
+
+h1 {
+  color: #4a4a4a;
+  font-family: "Trend HM Sans One",sans-serif;
+  font-size: 2.25rem;
+  margin: 0 auto 1.875rem auto;
+  text-transform: uppercase;
+}
+
+.recipe-header {
+  width: 732px;
+  height: 372.617px;
+  box-sizing: border-box;
+  display: block;
+  float: none;
+  line-height: 26px;
+  position: static;
+  z-index: auto;
+}
+
+.two-quarters {
+  width: 47.3684210526%;
+  float: left;
+  text-transform: uppercase;
+}
+
+.recipe-ingredients {
+  width: 366px;
+  height: 295.783px;
+  box-sizing: border-box;
+  display: block;
+  float: left;
+  line-height: 26px;
+  position: static;
+  z-index: auto;
+}
+
+.recipe-instruction {
+  width: 366px;
+  height: 295.783px;
+  box-sizing: border-box;
+  display: block;
+  float: right;
+  line-height: 26px;
+  position: static;
+  z-index: auto;
+}
+
+#recipe-main {
+  width: 732px;
+  height: 876.8px;
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  float: none;
+  line-height: 26px;
+  position: static;
+  z-index: auto;
+}
